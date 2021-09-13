@@ -15,23 +15,27 @@
         "fontStyles": [
           {
             "styleName": "Regular",
-            "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Regular.ttf"
+            "fontUrl": "https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-Regular.ttf"
           },
           {
             "styleName": "Bold",
-            "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Bold.ttf"
-          },
-          {
-            "styleName": "ExtraBold",
-            "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-ExtraBold.ttf"
+            "fontUrl": "https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-Bold.ttf"
           },
           {
             "styleName": "Medium",
-            "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Medium.ttf"
+            "fontUrl": "https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-Medium.ttf"
           },
           {
             "styleName": "SemiBold",
-            "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-SemiBold.ttf"
+            "fontUrl": "https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-SemiBold.ttf"
+          },
+          {
+            "styleName": "ExtraLight",
+            "fontUrl":"https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-ExtraLight.ttf"
+          },
+          {
+            "styleName": "Light",
+            "fontUrl":"https://github.com/akuru-io/font-lib-temp/raw/master/yaldevi-colombo/ttf/YaldeviColombo-Light.ttf"
           }
         ],
         "tags": []
